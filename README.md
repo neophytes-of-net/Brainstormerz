@@ -9,6 +9,7 @@ We've talked about potentially doing a text adventure game and I could see that 
 Other ideas </br>
 ![Capable (Functional) API](https://fsharpforfunandprofit.com/cap/) - An API that basically handles the logical dissemination of the API to anyone who might request it
 ![Avalonia Framework](https://avaloniaui.net/) - Basically WPF style of work but cross-platform
+</br>
 ![pdfs](/.pdfs)
 
 
